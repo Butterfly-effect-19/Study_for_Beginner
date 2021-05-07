@@ -18,7 +18,7 @@
 ## 📂 Table of Contents
 
 - CS
-	- 개발상식
+	- [개발상식](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/Development_common_sense) 
 	- 자료구조
 	- 네트워크
 	- 운영체제
