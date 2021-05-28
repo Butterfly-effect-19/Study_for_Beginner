@@ -20,7 +20,7 @@
 
 - CS
 	- [개발상식](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/Development_common_sense) 
-	- 자료구조
+	- [자료구조](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/DataStructure) 
 	- 네트워크
 	- 운영체제
 	- 데이터베이스 
