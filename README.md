@@ -21,7 +21,7 @@
 - CS
 	- [개발상식](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/Development_common_sense) 
 	- [자료구조](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/DataStructure) 
-	- 네트워크
+	- [네트워크](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/Network)
 	- [운영체제](https://github.com/Butterfly-effect-19/Study_for_Beginner/tree/main/OS)
 	- 데이터베이스 
 	- 알고리즘
